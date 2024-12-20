@@ -1,2 +1,2 @@
 # LEHARI
-website using html and css
+create website using html and css
